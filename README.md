@@ -1,2 +1,2 @@
 # MyExoCortex
-New Knowledge, portofolio and time  management tool aimed at students
+New Knowledge, portfolio and time  management tool aimed at students
